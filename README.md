@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**aktersabina122/aktersabina122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sabina Akter
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning Kubernetes
@@ -13,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me at aktersabina122@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Love cooking and traveling
---->
+
 
