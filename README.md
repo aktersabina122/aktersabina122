@@ -12,6 +12,7 @@ I am Sabina Akter
 - 📫 How to reach me: You can reach me at aktersabina122@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Love cooking and traveling
+- 👯 You can connect me on Linkdln at https://www.linkedin.com/in/aktersabina122/
 
 - Thanks for visiting!
 
