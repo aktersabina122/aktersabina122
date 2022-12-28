@@ -3,7 +3,7 @@
 I am Sabina Akter
 
 
-- 🔭 I’m currently working as an Infrastructure Engineer
+- 🔭 I’m currently working as an Infrastructure Engineer at Fox
 - 🌱 I’m learning Kubernetes
 - 👯 I’m looking to collaborate on some Open Source Projects
 - 🤔 I’m looking for help with Kubernetes set up in my local computer
