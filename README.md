@@ -1,18 +1,33 @@
-### Hi there 👋
 
-I am Sabina Akter
+# Hi there 👋 I'm Sabina Akter
 
+## 🚀 About Me
 
-- 🔭 I’m currently working as an Infrastructure Engineer at Fox
-- 🌱 I’m learning Kubernetes
-- 👯 I’m looking to collaborate on some Open Source Projects
-- 🤔 I’m looking for help with Kubernetes set up in my local computer
-- 💬 Ask me about AWS Cloud Practitioner Exam Preparation/Cloud
-- 🌱 I regularly write article on Medium, https://aktersabina122.medium.com/
-- 📫 How to reach me: You can reach me at aktersabina122@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: Love cooking and traveling
-- 👯 You can connect me on Linkdln at https://www.linkedin.com/in/aktersabina122/
+- 💼 IT Systems Engineer | Cloud & DevOps
+- 🎓 M.S. in Cybersecurity (Software & System Security), University of West Florida (Expected Graduation: December 2026)
+- ☁️ Passionate about AWS, Azure, Linux, Docker, and Cloud Technologies
+- 🌱 Currently learning Terraform, CI/CD, and Cloud Automation
+- 👯 Looking to collaborate on Open Source and Cloud projects
+- ✍️ I regularly write articles on Medium: https://aktersabina122.medium.com/
+- 💬 Ask me about AWS, Cloud Computing, and AWS Cloud Practitioner Certification
+- 💡 Interested in Cloud Infrastructure, DevOps, Cybersecurity, and Automation
 
-- Thanks for visiting!
+## 🛠️ Tech Stack
+
+- AWS
+- Azure
+- Linux
+- Docker
+- Git & GitHub
+- Terraform
+- Bash
+- Python
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/aktersabina122
+- Email: aktersabina122@gmail.com
+- Medium: https://aktersabina122.medium.com/
+
+⭐ Thanks for visiting my profile!
 
