@@ -1,33 +1,35 @@
-
 # Hi there 👋 I'm Sabina Akter
 
 ## 🚀 About Me
 
-- 💼 IT Systems Engineer | Cloud & DevOps
-- 🎓 M.S. in Cybersecurity (Software & System Security), University of West Florida (Expected Graduation: December 2026)
-- ☁️ Passionate about AWS, Azure, Linux, Docker, and Cloud Technologies
-- 🌱 Currently learning Terraform, CI/CD, and Cloud Automation
-- 👯 Looking to collaborate on Open Source and Cloud projects
-- ✍️ I regularly write articles on Medium: https://aktersabina122.medium.com/
-- 💬 Ask me about AWS, Cloud Computing, and AWS Cloud Practitioner Certification
-- 💡 Interested in Cloud Infrastructure, DevOps, Cybersecurity, and Automation
+- 💼 IT Systems Engineer with experience in AWS infrastructure, cloud operations,    automation, and monitoring.
+- 🎓 M.S. in Cybersecurity (Software & System Security), University of West Florida (Expected: Dec 2026)
+- ☁️ Passionate about AWS, Linux, Cloud Infrastructure, and Cybersecurity.
+- 🌱 Currently expanding my skills in Terraform, DevSecOps, and Cybersecurity.
+- 👯 Open to collaborating on Cloud and Cybersecurity projects.
+- ✍️ I regularly publish cybersecurity articles on Medium.
+- 💬 Ask me about the AWS Cloud Practitioner exam, AWS fundamentals, and Cloud Computing.
+- 💡 Interested in Cloud Infrastructure, Cybersecurity, and Automation.
 
 ## 🛠️ Tech Stack
 
 - AWS
-- Azure
+- CloudFormation
+- CloudWatch
+- Grafana
 - Linux
-- Docker
+- Docker (Basic)
 - Git & GitHub
-- Terraform
-- Bash
-- Python
+- Terraform (Basic)
+- Splunk (Basic)
+- Nmap
+- Wireshark
+- Python (Basic)
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/aktersabina122
+- LinkedIn: [linkedin.com/in/aktersabina122](https://www.linkedin.com/in/aktersabina122)
+- Medium: [aktersabina122.medium.com](https://aktersabina122.medium.com/)
 - Email: aktersabina122@gmail.com
-- Medium: https://aktersabina122.medium.com/
 
 ⭐ Thanks for visiting my profile!
-
